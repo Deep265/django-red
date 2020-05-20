@@ -1,0 +1,9 @@
+.font{
+  font-family: 'Lobster', cursive;
+ }
+.line{
+    height: 1px;
+    width: 75%;
+    background-color: grey;
+    margin-top: 5%;
+}
